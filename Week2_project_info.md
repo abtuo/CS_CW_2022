@@ -32,7 +32,7 @@ Bon travail !
 
 ## Criteres d'evaluation des soutenances de projets de semaine 2 :
 
-* Presentation orale
+* Presentation orale (25 minutes)
  	* Respect du temps
  	* Elocution
  	* Qualité des supports 
